@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navProfile"
+        android:title="Profile"
+        android:icon="@drawable/ic_account"/>
+
+    <item
+        android:id="@+id/navTempatTerdekat"
+        android:title="Tempat Terdekat"
+        android:icon="@drawable/ic_zoom_in_map"/>
+
+    <item
+        android:id="@+id/navMaps"
+        android:title="Peta"
+        android:icon="@drawable/ic_map"/>
+
+    <item
+        android:id="@+id/navTentang"
+        android:title="Tentang"
+        android:icon="@drawable/ic_info"/>
+
+</menu>
